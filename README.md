@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Edsontb1981
 - 👀 I’m interested in project java
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on back end.
+- 💞️ I’m looking to collaborate in project de develop software.
 - 📫 How to reach me: edsontb19891@gmail.com.
 - 😄 Pronouns: <?>
 - ⚡ Fun fact: <?>
